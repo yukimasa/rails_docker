@@ -1,0 +1,2 @@
+172.23.0.1 - - [21/Jul/2019:05:09:41 +0000] "GET / HTTP/1.1" 200 123203 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" "-"
+172.23.0.1 - - [21/Jul/2019:05:09:41 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" "-"
